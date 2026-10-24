@@ -1,0 +1,6 @@
+{
+  "name": "Student Academy (Student Center) - منصة التعليم المتكاملة",
+  "description": "منصة تعليمية متكاملة تقدم خدمات التعليم أونلاين وحضوري للطلاب في مختلف المراحل الدراسية بجميع الدول العربية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
